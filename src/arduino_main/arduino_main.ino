@@ -3,8 +3,8 @@
 #define in3 9
 #define in4 10
 
-#define byte_inicial ':'
-#define byte_final '\n'
+#define byte_inicial '_'
+#define byte_final '!'
 
 #define estado_inicial 0
 #define estado_botao 1
